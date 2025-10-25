@@ -15,3 +15,15 @@
 -- Find all orders with their shipping address and the product category for each item in the order.
 
 -- Display all returns with their corresponding order details and product information.
+
+-- For 2025, list customers with their orders and sort the results by the most recent order date.
+
+-- For each customer, show total orders and total quantity ordered
+
+-- For each product, show total units sold and total revenue; include products that have never been ordered.
+
+-- For each month of a given year, show total orders and total returned items; return only months where the return rate exceeds a chosen percentage.
+
+-- For each customer, show their first-ever order date and the number of products in that first order.
+
+-- List orders placed on weekends with customer names and product categories, sorted by order date and category.

@@ -1,0 +1,11 @@
+-- Find pairs of customers who live in the same city but have different last names.
+
+-- List pairs of customers with the same last name, then group them by last name and return only those last names that appear more than 3 times.
+
+-- For the year 2025, identify customers who placed more than one order on the same date; show each customer with the specific dates involved.
+
+-- Within each brand, find pairs of products where one item’s price is at least 50% higher than the other; return only such pairs.
+
+-- For returns within the same month, find reasons that occurred on 3 or more different days of that month; list reason–month combinations meeting this threshold.
+
+-- Identify dates on which multiple customers placed their first-ever order; show the date and the count of such first-orders, keeping only dates with at least 5 first-orders.

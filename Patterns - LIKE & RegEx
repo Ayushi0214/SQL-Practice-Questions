@@ -1,0 +1,19 @@
+-- Find all customers whose first name starts with the letter “A”.
+
+-- Retrieve customers whose last name ends with “an”.
+
+-- List customers whose email contains the word “gmail”.
+
+-- Show customers whose phone number begins with “98”.
+
+-- Return customers whose city name has “pur” anywhere in it.
+
+-- Find customers whose first name is exactly 5 characters long.
+
+-- Retrieve customers whose email ends with “yahoo.com”.
+
+-- List customers whose first name starts with a vowel (A, E, I, O, U).
+
+-- Find customers whose last name contains a double letter (like “ss” or “tt”).
+
+-- Return customers whose phone number does not contain the digit “0”.

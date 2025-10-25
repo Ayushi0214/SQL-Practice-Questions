@@ -1,0 +1,19 @@
+-- Convert all customer first names to uppercase.
+
+-- Show the length of each customer’s last name.
+
+-- Extract the first 3 letters of each customer’s city.
+
+-- Concatenate first name and last name into a single field.
+
+-- Replace “gmail” with “outlook” in customer email addresses.
+
+-- Find the position of “@” in each customer email.
+
+-- Trim spaces from the beginning and end of customer first names.
+
+-- Reverse the customer’s last name.
+
+-- Show customers whose city name length is more than 6 characters.
+
+-- Return only the domain part of customer email addresses (everything after “@”).

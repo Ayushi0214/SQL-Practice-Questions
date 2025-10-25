@@ -1,0 +1,19 @@
+-- Round the product price to the nearest whole number.
+
+-- Return the ceiling of each unit price in order details.
+
+-- Return the floor of each total price in order details.
+
+-- Show the modulus when dividing customer age by 10.
+
+-- Generate a random number for every product record.
+
+-- Calculate the square root of each product price.
+
+-- Find the total quantity ordered across all order details.
+
+-- Find the average discount percent across all orders.
+
+-- Return the maximum product price from products.
+
+-- Return the minimum customer age from customers.

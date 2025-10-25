@@ -1,0 +1,29 @@
+-- List every record from the customers table.
+
+-- Show the unique states where customers are located, sorted alphabetically.
+
+-- Return the first 10 customers as they appear in the table.
+
+-- Find customers whose age is greater than 35.
+
+-- List customers whose first name starts with the letter ‘A’.
+
+-- Show customers whose email address uses the ‘gmail.com’ domain.
+
+-- Retrieve customers who registered in the year 2024.
+
+-- Return customers whose age is between 20 and 30 (inclusive).
+
+-- List customers who live in any of these cities: Mumbai, New Delhi, Bengaluru, or Jaipur.
+
+-- List customers who do not live in these cities: Mumbai, New Delhi, Bengaluru, or Jaipur.
+
+-- Show the 5 oldest customers, from oldest to youngest.
+
+-- Show the 5 youngest customers, from youngest to oldest.
+
+-- Find customers whose phone number starts with ‘9’.
+
+-- Return all orders placed in the year 2025.
+
+-- List products priced between 10,000 and 50,000, ordered from highest to lowest price.

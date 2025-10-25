@@ -1,0 +1,17 @@
+-- Retrieve all orders along with the customer details.
+
+-- Show all customers and their orders, including customers who haven’t placed any orders.
+
+-- Display all orders and their customer information, including orders that don’t have a matching customer record.
+
+-- List all possible combinations of customers and products.
+
+-- Retrieve order details along with product names.
+
+-- Show all products and the orders they appear in, including products that have never been ordered.
+
+-- Return customer names and product names for each order placed.
+
+-- Find all orders with their shipping address and the product category for each item in the order.
+
+-- Display all returns with their corresponding order details and product information.

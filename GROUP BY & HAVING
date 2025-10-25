@@ -1,0 +1,23 @@
+-- Count customers in each city.
+
+-- Show the total number of orders by order status for the year 2025.
+
+-- List product categories where the average product price is greater than 40,000.
+
+-- Show cities in Maharashtra that have more than 30 customers.
+
+-- For the year 2024, list months with at least 100 orders.
+
+-- For each product category, count products priced above 50,000 and return only those categories with at least 5 such products.
+
+-- List customers who placed more than 3 orders during 2025.
+
+-- Show brands whose total units sold during 2025 exceed 1,000.
+
+-- Considering only customers who signed up in 2024, list states where the average customer age is above 30 and there are at least 10 customers.
+
+-- For shipped orders only, list months where the total discount across all order lines exceeded 5,000.
+
+-- For returns in 2025, list cities with at least 5 returned line items.
+
+-- For 2024, list product sub-categories that sold at least 200 total units and appeared in at least 20 distinct orders.

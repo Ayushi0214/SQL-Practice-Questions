@@ -1,0 +1,19 @@
+-- List all distinct cities from the customers table combined with all distinct shipping cities from orders.
+
+-- Show all products that have been ordered and also exist in the products catalog.
+
+-- Find customers who have placed orders but are not listed in the returns table.
+
+-- Return email addresses that appear both in the customers table and in the list of contacts who registered in 2025.
+
+-- Display the list of product categories that are sold in 2024 and also in 2025.
+
+-- Find customers who placed orders in January 2025 but not in February 2025.
+
+-- Return brands that appear in both the products table and also in orders where the average discount > 10%.
+
+-- List customer IDs who have made payments using Credit Card and also UPI.
+
+-- Show product IDs that were returned in 2024 but not in 2025.
+
+-- Find states that have customers but no orders shipped to them yet.

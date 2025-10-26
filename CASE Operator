@@ -1,0 +1,9 @@
+-- Classify orders by delivery speed: if the delivery date is within 3 days of order date mark as Fast, within 7 days as Normal, else Delayed.
+
+-- Create a report of customers showing age groups: Youth (under 25), Adult (25–40), Senior (above 40), and count customers in each group (transpose style).
+
+-- For each product category, show total revenue and classify performance: High Revenue (above 1,00,000), Medium Revenue (50,000–1,00,000), Low Revenue (below 50,000).
+
+-- Pivot the returns table: count how many returns are in each refund status (Approved, Pending, Processed), using CASE inside aggregates to simulate transposed columns.
+
+-- For each state, calculate the number of orders paid by different payment methods (Credit Card, UPI, Cash) using CASE expressions, and return only states where at least two payment methods are used significantly.

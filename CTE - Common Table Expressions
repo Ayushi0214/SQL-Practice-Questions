@@ -1,0 +1,13 @@
+-- Build a CTE that calculates the total amount per order, then use it to list the top orders for each state in a selected year.
+
+-- Using a CTE that identifies the first order date per customer, return customers whose first order occurred within 30 days of their signup date.
+
+-- Create a CTE that aggregates monthly revenue per category; from that CTE, list categories whose month-over-month revenue grew for at least three consecutive months.
+
+-- With a CTE that computes return rate per brand in a selected year, list brands whose return rate is above the overall average brand return rate for that year.
+
+-- Build a CTE that tags each order line into discount buckets and produces an order-level summary; return only orders where high-discount lines make up more than half of the order’s revenue.
+
+-- Recursive CTE: Generate a continuous day series for a selected year and compare it to order activity; list dates that had zero orders and the longest streak of consecutive zero-order days.
+
+-- Recursive CTE: Generate a month series for a selected year per product category and left join to monthly sales; return categories that have at least two non-adjacent months with sales below a chosen threshold.

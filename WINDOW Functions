@@ -1,0 +1,19 @@
+-- For each customer, compute a running total of order amount by order date, and also show the previous order’s amount beside it.
+
+-- For each product, calculate a 7-day moving average of units sold based on order date; return only dates where the moving average increases versus the prior day.
+
+-- Rank brands by total revenue in each calendar month and return only the top 3 brands per month (break ties using a dense ranking).
+
+-- Within each state, rank customers by total quantity ordered in 2025; show the top 5 per state and their share of state-level quantity (customer quantity divided by state total using window sums).
+
+-- For every order line, compute effective discount buckets (Low/Medium/High) using CASE, and return a pivot-style summary per month where each bucket is a column created with windowed conditional sums.
+
+-- Identify the second most selling product (by total quantity) within each category, using window ranking; return category, product, and its rank-based position.
+
+-- For each product, show the first order date, latest order date, and the number of days since previous sale (use LAG) for every sale event; filter to rows where the gap exceeds 30 days.
+
+-- Compute the return rate per brand per quarter (returned units vs. sold units) and then use window functions to list only brands whose quarterly return rate is above the brand’s own annual average.
+
+-- For each customer, assign purchase frequency segments using NTILE(4) over their 2024 order counts (quartiles), and return only customers in the top quartile along with their percentile rank within their state.
+
+-- For each product, calculate a cumulative revenue along the product’s sale timeline and also the month-to-date revenue using an appropriate window frame; return only months where month-to-date exceeds the product’s 6-month moving average.

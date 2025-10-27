@@ -1,0 +1,13 @@
+-- List all customers whose city occurs more than once in the customer list.
+
+-- Find the product with the second highest total sales quantity.
+
+-- Return customers who have never placed an order.
+
+-- Identify orders where the total amount is greater than the average order total across all orders.
+
+-- Show all products that were ordered at a unit price higher than their catalog price.
+
+-- Find customers who placed orders in January 2025 but not in February 2025.
+
+-- Identify the top 3 product categories by revenue for the year 2024 using a subquery inside the main query.
